@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\301b746896ea2e448e70dfce9387b633aa647f83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a743ee770ba5658837dd1ba6b3467bc8da17abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d43364a2e477403407ab5e2ef4244ceb3eb3059">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cff28b0f34847945fb13529f26919b6384454b93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\6be73c1393e8061d3dce3e3143b8f1cbb54ec418\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98b3d702b851fd43822b5322356cbfef7df031e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\d6fee1502c5ead504cda752b5a6455ced838e3d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6710ac076a15f4a754fc86783ff5ba447064a9e">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7307132c61b9871eb2e7ea52ef85301fc1731aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96ccf1bf7e3854d041cc352d728dc18c3cc3b954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\301b746896ea2e448e70dfce9387b633aa647f83\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_fb29fc3d432467091bf45ce98a0a2ef65463247d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\89d5592624ce64a2d499222ecf01375f10d81b65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d372e83687735810ff54c9f9535aeaf6df402afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_2fd9bb940ec09a5971b66085a4c1581e55fa3fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AJ\.android\build-cache\a256d9e6c918b713adc4a7fd28556e25d98b639b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\AJ\Downloads\androidhtp3_examples\androidhtp3_examples\AndroidProjects\RoadSignQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fde42c8e34e897f4a03ed3f552be9ff84a2ade79\classes.dex" />
+    </item>
+
+</items>
